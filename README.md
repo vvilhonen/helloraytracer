@@ -1,6 +1,6 @@
 ## Ray tracer from <i>Ray Tracing in One Weekend</i> from Peter Shirley
 
-![demo](https://vesacdn.s3.eu-north-1.amazonaws.com/demo.gif)
+![demo](https://vesacdn.s3.eu-north-1.amazonaws.com/demo2.gif)
 
 ### Running
 
